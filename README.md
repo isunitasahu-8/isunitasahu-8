@@ -1,6 +1,6 @@
 ---
 
-👋 Hi, I’m @isunitasahu-8
+👋 Hi, I’m Sunita Sahu
 
 - 👀 I’m interested in uncovering insights from data, data visualization, and predictive analytics.
 - 🌱 I’m currently learning advanced statistical techniques, Python programming, and machine learning algorithms.
